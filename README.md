@@ -86,3 +86,4 @@ ventas360-dashboard/
 5. Elige la rama `main`, la carpeta `/root` y guarda.
 
 Después de unos minutos, GitHub mostrará la URL pública del dashboard.
+Proyecto publicado mediante GitHub Pages.
