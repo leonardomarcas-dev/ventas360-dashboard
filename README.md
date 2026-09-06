@@ -30,7 +30,19 @@ Ventas360 es un dashboard administrativo responsive para visualizar indicadores 
 - **Tablet:** sidebar compacto, indicadores en dos columnas y contenido ajustado.
 - **Móvil:** navegación horizontal superior y tabla convertida en tarjetas.
 
-Las capturas correspondientes se encuentran en la carpeta [`evidencias`](evidencias/).
+## Evidencias del diseño responsive
+
+### Vista de escritorio
+
+![Dashboard Ventas360 en escritorio](evidencias/escritorio.png)
+
+### Vista de tablet
+
+![Dashboard Ventas360 en tablet](evidencias/tablet.png)
+
+### Vista móvil
+
+![Dashboard Ventas360 en móvil](evidencias/movil.png)
 
 ## Accesibilidad
 
